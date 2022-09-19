@@ -1,0 +1,16 @@
+/* Cascading: Seu estilo é lido de cima para baixo
+    inline é maior que a tag style que é maior que a tag link  
+    
+    Irar dar prioridade aquele que esiver por ultimo.*/
+
+
+
+    
+
+h1 { 
+  color: red;
+}
+
+h1 { 
+  color: blue;
+}
