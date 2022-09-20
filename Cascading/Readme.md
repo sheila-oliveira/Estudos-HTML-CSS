@@ -6,7 +6,7 @@ Seu estilo é lido de cima para baixo é mais forte o que estiver por ultimo.
 
 O que você aprendeu construindo esse projeto? Quais desafios você enfrentou e como você superou-os?
 
-Apreendi Que na Origem do estilo
+aprendi Que na Origem do estilo
 
  1- Inline -> style="color: green" -> é Mais Forte a   
  2- Tag style: <style> h1 {
