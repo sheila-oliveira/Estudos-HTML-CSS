@@ -1,0 +1,21 @@
+* {
+  color: green;
+  /* Ira pegar para tudo menos para o h1 por que seletor é mais forte */
+}
+
+.title {
+  color:aqua;
+}
+
+/* ID é mais forte que class */
+#my {
+  color: brown;
+}
+
+/* h1 {
+  color: blue;
+} */
+
+h1 {
+  color: red;
+}
